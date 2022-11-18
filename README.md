@@ -2,6 +2,9 @@
 연습
 
 <<<<<<< HEAD
+저도 한번 해봤습니다.
+=======
+<<<<<<< HEAD
 aaaa
 bbbb
 cccc
@@ -15,3 +18,4 @@ dddsddd
 
 
 wwwwwwwww
+>>>>>>> 8f776a53ac004d423e7373a6a60902f818842372
